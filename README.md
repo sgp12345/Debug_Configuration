@@ -7,7 +7,7 @@ This is set up for Visual Studio Code users compiling and debugging C++ project 
 
 ## Use
 
-1. Copy `.vscode` and `mmf` under the target project directory
+1. Copy `mmf` under the target project directory and copy `launch.json` and `tasks.json` in folder `.vscode` under the targer project directory
 
 2. Open Visual Studio Code and set your target project directory as the workspace
 
